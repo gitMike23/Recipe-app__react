@@ -1,0 +1,8 @@
+@import "../styles/variables.scss";
+
+.grid {
+  @include gridLayout;
+}
+.card {
+  @include card;
+}
